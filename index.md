@@ -6,17 +6,18 @@
 
 課題図書は、新井白石『讀史餘論』です。村岡典嗣の1936年(昭和36年)の校訂版を用います。
 
-課題図書URL: [https://dl.ndl.go.jp/info:ndljp/pid/1184418 ](https://dl.ndl.go.jp/info:ndljp/pid/1184418)
+- 課題図書URL
+  - [https://dl.ndl.go.jp/info:ndljp/pid/1184418 ](https://dl.ndl.go.jp/info:ndljp/pid/1184418)
 
-参考文献URL: 近藤萌美「新井白石の政治論 : 『読史余論』を中心に」『寧楽史苑』57巻、2012年、68-85頁。[https://opac2.lib.nara-wu.ac.jp/webopac/TD00002946 ](https://opac2.lib.nara-wu.ac.jp/webopac/TD00002946)
-
-寺出道雄「歴史と鑑戒 : 『読史余論』における新井白石の驕奢論」『三田学会雑誌』110巻4号、2018年、573(213)-582(222)頁。  [http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 ](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 )
+-参考文献URL
+  - 藤萌美「新井白石の政治論 : 『読史余論』を中心に」『寧楽史苑』57巻、2012年、68-85頁。[https://opac2.lib.nara-wu.ac.jp/webopac/TD00002946 ](https://opac2.lib.nara-wu.ac.jp/webopac/TD00002946)
+  - 寺出道雄「歴史と鑑戒 : 『読史余論』における新井白石の驕奢論」『三田学会雑誌』110巻4号、2018年、573(213)-582(222)頁。  [http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 ](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 )
 
 ## 会について
 
 ### 活動
 
-「光の防人読書会」は、日本の保守思想の源流をめぐる著作を、参加者の知見を提供しあいながら繙く読書会です。研究会より参加しやすい会にするため、(1)レジュメは作成しない(2)課題図書も参考資料もオンラインで参照できるものに限る、という2つ規則を設けています。
+「光の防人読書会」は、日本の保守思想の源流をめぐる著作を、参加者の知見を提供しあいながら繙く読書会です。研究会より参加しやすい会にするため、(1)レジュメは作成しない(2)課題図書も参考資料もオンラインで参照できるものに限る、という2つの規則を設けています。
 
 取り上げる著作は、当会が「決別」と名付けている主題から適宜選出されます。決別一覧は当ページ下部をご覧ください。
 
