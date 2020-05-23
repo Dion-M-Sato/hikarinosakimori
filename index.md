@@ -12,7 +12,7 @@
 - 課題図書URL
   - [https://dl.ndl.go.jp/info:ndljp/pid/1184418 ](https://dl.ndl.go.jp/info:ndljp/pid/1184418)
 
--参考文献URL
+- 参考文献URL
   - 藤萌美「新井白石の政治論 : 『読史余論』を中心に」『寧楽史苑』57巻、2012年、68-85頁。[https://opac2.lib.nara-wu.ac.jp/webopac/TD00002946 ](https://opac2.lib.nara-wu.ac.jp/webopac/TD00002946)
   - 寺出道雄「歴史と鑑戒 : 『読史余論』における新井白石の驕奢論」『三田学会雑誌』110巻4号、2018年、573(213)-582(222)頁。  [http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 ](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 )
 
