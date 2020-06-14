@@ -2,6 +2,24 @@
 
 ## 更新記録
 
+
+### 7月10日：【勤皇主義篇】頼山陽『日本外史』
+
+**時間** 19:30
+**会場** ZOOM  
+**参加方法** 件名に「光の防人読書会申し込み」と記載のうえ、masasato[at]phiz.c.u-tokyo.ac.jp までご連絡ください。
+
+課題図書は、頼山陽『日本外史』です。真之友社の1937年(昭和12年)の版を用います。白文ではなく、書き下しです。
+
+- 課題図書URL
+
+   - [https://dl.ndl.go.jp/info:ndljp/pid/1906974 ](https://dl.ndl.go.jp/info:ndljp/pid/1906974)
+
+- 参考文献
+ - 蔡毅「頼山陽『日本外史』の中国への流布」11巻12号、日本漢文学研究、2017年、27-50頁。[http://id.nii.ac.jp/1284/00002371/ ](http://id.nii.ac.jp/1284/00002371/)
+ - 井上厚史「『南総里見八犬伝』と『日本外史』の歴史認識」61号、同志社国文学、2004年、503-514頁。[https://doors.doshisha.ac.jp/opac/opac_link/bibid/SB00960306/?lang=0 ](https://doors.doshisha.ac.jp/opac/opac_link/bibid/SB00960306/?lang=0)
+
+
 ### 6月12日：【立身出世篇】中江藤樹『翁問答』
 
 **時間** 21:00
@@ -11,11 +29,11 @@
 課題図書は、中江藤樹『翁問答』です。平山良吉訳の1924年(大正13年)の版を用います。
 
 - 課題図書URL
-  - [https://dl.ndl.go.jp/info:ndljp/pid/1021485](https://dl.ndl.go.jp/info:ndljp/pid/1021485)
+  - [https://dl.ndl.go.jp/info:ndljp/pid/1021485 ](https://dl.ndl.go.jp/info:ndljp/pid/1021485)
 
 - 参考文献URL
-  - 吉田公平「日本近代―明治大正期の陽明学運動―」『国際哲学研究』7巻、2018年、181-188頁。[https://opac2.lib.nara-wu.ac.jp/webopac/TD00002946 ](https://opac2.lib.nara-wu.ac.jp/webopac/TD00002946)
-  - 渡辺弘「江戸時代の学習思想(その1)―陽明学派の人々を中心に」『哲学』99巻、1995年、161-181頁。  [http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 ](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 )
+  - 吉田公平「日本近代―明治大正期の陽明学運動―」『国際哲学研究』7巻、2018年、181-188頁。[http://doi.org/10.34428/00009802 ](http://doi.org/10.34428/00009802)
+  - 渡辺弘「江戸時代の学習思想(その1)―陽明学派の人々を中心に」『哲学』99巻、1995年、161-181頁。  [http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00150430-00000099-0161 ](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/detail.php?koara_id=AN00234610-20180101-0213 )
 
 
 
