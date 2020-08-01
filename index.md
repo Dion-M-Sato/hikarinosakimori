@@ -17,7 +17,7 @@
 
 - 参考文献
  - 	武石智典「藤田東湖の『孟子』観 : 徂徠学派との比較から」15巻、研究論集、2016年、81-92頁。[http://hdl.handle.net/2115/60572 ](http://hdl.handle.net/2115/60572)
- - 井上厚史「後期水戸学における思想的転回<span style=”letter-spacing:-.2em;width:2em;margin-right:.5em;”>――</span>」39号、日本思想詩学、2007年、112-128頁。[http://ajih.jp/backnumber/pdf/39_02_04.pdf ](http://ajih.jp/backnumber/pdf/39_02_04.pdf)
+ - 井上厚史「後期水戸学における思想的転回<span style=”letter-spacing:2em;width:2em;margin-right:5em;”>――</span>」39号、日本思想詩学、2007年、112-128頁。[http://ajih.jp/backnumber/pdf/39_02_04.pdf ](http://ajih.jp/backnumber/pdf/39_02_04.pdf)
 
 
 ### 7月10日：【勤皇主義篇】頼山陽『日本外史』
