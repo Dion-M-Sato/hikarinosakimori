@@ -3,6 +3,23 @@
 ## 更新記録
 
 
+### 8月14日：【勤皇主義篇】藤田東湖『回天詩史』
+
+**時間** 20:00
+**会場** LINE  
+**参加方法** 件名に「光の防人読書会申し込み」と記載のうえ、masasato[at]phiz.c.u-tokyo.ac.jp までご連絡ください。
+
+課題図書は、藤田東湖『回天詩史』です。高須芳次郎が編集した読書新報社出版部による1943年(昭和18年)の版を用います。白文ではなく、書き下しです。
+
+- 課題図書URL
+
+   - [https://dl.ndl.go.jp/info:ndljp/pid/1123559 ](https://dl.ndl.go.jp/info:ndljp/pid/1123559)
+
+- 参考文献
+ - 	武石智典「藤田東湖の『孟子』観 : 徂徠学派との比較から」15巻、研究論集、2016年、81-92頁。[http://hdl.handle.net/2115/60572 ](http://hdl.handle.net/2115/60572)
+ - 井上厚史「後期水戸学における思想的転回<span style=”letter-spacing:-.2em;width:2em;margin-right:.5em;”>――</span>」39号、日本思想詩学、2007年、112-128頁。[http://ajih.jp/backnumber/pdf/39_02_04.pdf ](http://ajih.jp/backnumber/pdf/39_02_04.pdf)
+
+
 ### 7月10日：【勤皇主義篇】頼山陽『日本外史』
 
 **時間** 19:30
