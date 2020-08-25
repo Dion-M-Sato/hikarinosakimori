@@ -3,6 +3,23 @@
 ## 更新記録
 
 
+### 9月22日：【華夷秩序篇】山鹿素行『中朝事実』
+
+**時間** 14:00  
+**会場** LINE  
+**参加方法** 件名に「光の防人読書会申し込み」と記載のうえ、masasato[at]phiz.c.u-tokyo.ac.jp までご連絡ください。
+
+課題図書は、山鹿素行『中朝事実』です。金港堂書籍による1913年(大正2年)の版を用います。
+
+- 課題図書URL
+
+   - [https://dl.ndl.go.jp/info:ndljp/pid/985444 ](https://dl.ndl.go.jp/info:ndljp/pid/985444)
+
+- 参考文献
+ - 前田勉「山鹿素行『中朝事実』における華夷観念」、愛知教育大学研究報告．人文・社会科学編、59巻、2010年、47-54頁。[https://aue.repo.nii.ac.jp/?action=repository_uri&item_id=148&file_id=15&file_no=1 ](https://aue.repo.nii.ac.jp/?action=repository_uri&item_id=148&file_id=15&file_no=1)
+ - マセ・フランソワ「『中朝事実』あるいは中心性の覆し」、国際日本学：文部科学省21世紀COEプログラム採択日本発信の国際日本学の構築研究成果報告集、11巻、2014年、193-215頁。[https://hosei.repo.nii.ac.jp/?action=repository_uri&item_id=22494&file_id=22&file_no=1 ](https://hosei.repo.nii.ac.jp/?action=repository_uri&item_id=22494&file_id=22&file_no=1)
+ - 郭馳洋「山鹿素行『中朝事実』に見るナショナリズムの形態」,思想史研究、19号、2014年、34-65頁。[https://researchmap.jp/GuoChiyang/misc/24623634/attachment_file.pdf ](https://researchmap.jp/GuoChiyang/misc/24623634/attachment_file.pdf)
+
 ### 8月14日：【勤皇主義篇】藤田東湖『回天詩史』
 
 **時間** 20:00  
