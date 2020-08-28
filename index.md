@@ -1,4 +1,4 @@
-# 光の防人読書会
+M2 3.3.12n
 
 ## 更新記録
 
@@ -12,13 +12,12 @@
 課題図書は、山鹿素行『中朝事実』です。金港堂書籍による1913年(大正2年)の版を用います。
 
 - 課題図書URL
-
    - [https://dl.ndl.go.jp/info:ndljp/pid/985444 ](https://dl.ndl.go.jp/info:ndljp/pid/985444)
 
 - 参考文献
- - 前田勉「山鹿素行『中朝事実』における華夷観念」、愛知教育大学研究報告．人文・社会科学編、59巻、2010年、47-54頁。[https://aue.repo.nii.ac.jp/?action=repository_uri&item_id=148&file_id=15&file_no=1 ](https://aue.repo.nii.ac.jp/?action=repository_uri&item_id=148&file_id=15&file_no=1)
- - マセ・フランソワ「『中朝事実』あるいは中心性の覆し」、国際日本学：文部科学省21世紀COEプログラム採択日本発信の国際日本学の構築研究成果報告集、11巻、2014年、193-215頁。[https://hosei.repo.nii.ac.jp/?action=repository_uri&item_id=22494&file_id=22&file_no=1 ](https://hosei.repo.nii.ac.jp/?action=repository_uri&item_id=22494&file_id=22&file_no=1)
- - 郭馳洋「山鹿素行『中朝事実』に見るナショナリズムの形態」,思想史研究、19号、2014年、34-65頁。[https://researchmap.jp/GuoChiyang/misc/24623634/attachment_file.pdf ](https://researchmap.jp/GuoChiyang/misc/24623634/attachment_file.pdf)
+  - 前田勉「山鹿素行『中朝事実』における華夷観念」、愛知教育大学研究報告．人文・社会科学編、59巻、2010年、47-54頁。[https://aue.repo.nii.ac.jp/?action=repository_uri&item_id=148&file_id=15&file_no=1 ](https://aue.repo.nii.ac.jp/?action=repository_uri&item_id=148&file_id=15&file_no=1)
+  - マセ・フランソワ「『中朝事実』あるいは中心性の覆し」、国際日本学：文部科学省21世紀COEプログラム採択日本発信の国際日本学の構築研究成果報告集、11巻、2014年、193-215頁。[https://hosei.repo.nii.ac.jp/?action=repository_uri&item_id=22494&file_id=22&file_no=1 ](https://hosei.repo.nii.ac.jp/?action=repository_uri&item_id=22494&file_id=22&file_no=1)
+  - 郭馳洋「山鹿素行『中朝事実』に見るナショナリズムの形態」,思想史研究、19号、2014年、34-65頁。[https://researchmap.jp/GuoChiyang/misc/24623634/attachment_file.pdf ](https://researchmap.jp/GuoChiyang/misc/24623634/attachment_file.pdf)
 
 ### 8月14日：【勤皇主義篇】藤田東湖『回天詩史』
 
@@ -29,12 +28,11 @@
 課題図書は、藤田東湖『回天詩史』です。高須芳次郎が編集した読書新報社出版部による1943年(昭和18年)の版を用います。白文ではなく、書き下しです。
 
 - 課題図書URL
-
    - [https://dl.ndl.go.jp/info:ndljp/pid/1123559 ](https://dl.ndl.go.jp/info:ndljp/pid/1123559)
 
 - 参考文献
- - 	武石智典「藤田東湖の『孟子』観 : 徂徠学派との比較から」15巻、研究論集、2016年、81-92頁。[http://hdl.handle.net/2115/60572 ](http://hdl.handle.net/2115/60572)
- - 井上厚史「後期水戸学における思想的転回<span style="letter-spacing:-0.2em;">――</span>会沢正志斎の思想を中心に<span style="letter-spacing:-0.2em;">――</span>」39号、日本思想詩学、2007年、112-128頁。[http://ajih.jp/backnumber/pdf/39_02_04.pdf ](http://ajih.jp/backnumber/pdf/39_02_04.pdf)
+  - 武石智典「藤田東湖の『孟子』観 : 徂徠学派との比較から」15巻、研究論集、2016年、81-92頁。[http://hdl.handle.net/2115/60572 ](http://hdl.handle.net/2115/60572)
+  - 井上厚史「後期水戸学における思想的転回<span style="letter-spacing:-0.2em;">――</span>会沢正志斎の思想を中心に<span style="letter-spacing:-0.2em;">――</span>」39号、日本思想詩学、2007年、112-128頁。[http://ajih.jp/backnumber/pdf/39_02_04.pdf ](http://ajih.jp/backnumber/pdf/39_02_04.pdf)
 
 
 ### 7月10日：【勤皇主義篇】頼山陽『日本外史』
@@ -46,12 +44,11 @@
 課題図書は、頼山陽『日本外史』です。真之友社の1937年(昭和12年)の版を用います。白文ではなく、書き下しです。
 
 - 課題図書URL
-
-   - [https://dl.ndl.go.jp/info:ndljp/pid/1906974 ](https://dl.ndl.go.jp/info:ndljp/pid/1906974)
+  - [https://dl.ndl.go.jp/info:ndljp/pid/1906974 ](https://dl.ndl.go.jp/info:ndljp/pid/1906974)
 
 - 参考文献
- - 蔡毅「頼山陽『日本外史』の中国への流布」11巻12号、日本漢文学研究、2017年、27-50頁。[http://id.nii.ac.jp/1284/00002371/ ](http://id.nii.ac.jp/1284/00002371/)
- - 井上厚史「『南総里見八犬伝』と『日本外史』の歴史認識」61号、同志社国文学、2004年、503-514頁。[https://doors.doshisha.ac.jp/opac/opac_link/bibid/SB00960306/?lang=0 ](https://doors.doshisha.ac.jp/opac/opac_link/bibid/SB00960306/?lang=0)
+  - 蔡毅「頼山陽『日本外史』の中国への流布」11巻12号、日本漢文学研究、2017年、27-50頁。[http://id.nii.ac.jp/1284/00002371/ ](http://id.nii.ac.jp/1284/00002371/)
+  - 井上厚史「『南総里見八犬伝』と『日本外史』の歴史認識」61号、同志社国文学、2004年、503-514頁。[https://doors.doshisha.ac.jp/opac/opac_link/bibid/SB00960306/?lang=0 ](https://doors.doshisha.ac.jp/opac/opac_link/bibid/SB00960306/?lang=0)
 
 
 ### 6月12日：【立身出世篇】中江藤樹『翁問答』
